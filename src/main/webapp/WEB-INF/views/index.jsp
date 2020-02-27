@@ -10,5 +10,8 @@
 <form action="${pageContext.request.contextPath}/logout" method="post">
     <input value="Logout" type="submit">
 </form>
+
+<a href="product/index">Products</a>
+
 </body>
 </html>
